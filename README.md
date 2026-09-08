@@ -1,9 +1,9 @@
 # Simple Line Editor in C
 
 ## Team Members
-- Member 1
-- Member 2
-- Member 3
+- Chethana Thakkalapati
+- Chaitra R
+- Chanadana H S
 
 ## Project Description
 This project is a command-line Line Editor developed in C. It allows users to create, edit, search, save, and load a text document line by line.
@@ -50,10 +50,6 @@ gcc main.c editor.c file.c utility.c -o line_editor
 line_editor.exe
 ```
 
-### Linux
-
-```bash
-./line_editor
 ```
 
 ## Technologies Used
